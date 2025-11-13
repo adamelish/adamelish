@@ -1,13 +1,6 @@
 ![](https://github.com/adamelish/adamelish/blob/main/welcome1.png?raw=true)
 
 
-
-
-
-
-
-
-
 # Hi, I'm **Adam Z. Elisha**
 
 ### 💼 Chairman & CEO at [eDatapay Corporation](https://www.edatapay.com)
@@ -71,4 +64,4 @@ To revolutionize digital payments by bridging **technology, trust, and transpare
 
 ---
 
-### ⚡ “Innovating Finance for a Connected World.”  
+###  “Innovating Finance for a Connected World.”  
