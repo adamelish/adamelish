@@ -57,10 +57,9 @@ To revolutionize digital payments by bridging **technology, trust, and transpare
 
 ## Connect With Me
 
-📧 **Email:** adamzelisha@gmail.com  
+📧 **Email:** elishadevelopments@gmail.com   
 🌐 **Website:** [www.edatapay.com](https://www.edatapay.com)  
 💼 **LinkedIn:** [https://www.linkedin.com/in/aelisha/](https://www.linkedin.com/in/aelisha/)  
-🐦 **Twitter:** [@AdamZElisha](https://twitter.com/AdamZElisha)
 
 ---
 
