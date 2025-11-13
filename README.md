@@ -1,4 +1,4 @@
-# 👋 Hi, I'm **Adam Z. Elisha**
+# Hi, I'm **Adam Z. Elisha**
 
 ### 💼 Chairman & CEO at [eDatapay Corporation](https://www.edatapay.com)
 
@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I'm a FinTech innovator and entrepreneur with over **20 years of experience** leading global payment and technology ventures.  
 As **Chairman and CEO of eDatapay Corporation**, I oversee the development of our **All-in-One Platform** — a unified solution for global payments, eBanking, and smart financial management.
@@ -15,7 +15,7 @@ I’m passionate about transforming how businesses and consumers transact worldw
 
 ---
 
-## 💡 Areas of Expertise
+## Areas of Expertise
 
 - 💳 **Payment Gateway Systems** — Retail & Enterprise Solutions  
 - 🌐 **Cross-Border Payment Platforms** — Multi-Currency & Global Transactions  
@@ -25,7 +25,7 @@ I’m passionate about transforming how businesses and consumers transact worldw
 
 ---
 
-## 🧩 Leadership at eDatapay
+## Leadership at eDatapay
 
 At eDatapay, I lead a global team focused on:
 
@@ -38,7 +38,7 @@ At eDatapay, I lead a global team focused on:
 
 ---
 
-## 🌱 Current Focus
+## Current Focus
 
 - Driving **AI-powered payment intelligence**  
 - Expanding **multi-currency cross-border networks**  
@@ -46,13 +46,13 @@ At eDatapay, I lead a global team focused on:
 
 ---
 
-## 🏆 Vision
+## Vision
 
 To revolutionize digital payments by bridging **technology, trust, and transparency** — enabling financial connectivity across every border.
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 📧 **Email:** adamzelisha@gmail.com  
 🌐 **Website:** [www.edatapay.com](https://www.edatapay.com)  
