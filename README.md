@@ -1,3 +1,13 @@
+![](https://github.com/adamelish/adamelish/blob/main/welcome1.png?raw=true)
+
+
+
+
+
+
+
+
+
 # Hi, I'm **Adam Z. Elisha**
 
 ### 💼 Chairman & CEO at [eDatapay Corporation](https://www.edatapay.com)
